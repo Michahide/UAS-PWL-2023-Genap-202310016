@@ -1,0 +1,110 @@
+[{
+  "_id": {
+    "$oid": "64a7b8ca56be5f0cc0012828"
+  },
+  "nama": "Michael Mervin Ruswan",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "Laki-Laki",
+  "umur": 21
+},
+{
+  "_id": {
+    "$oid": "64a7b8ca56be5f0cc0012829"
+  },
+  "nama": "Intan Permatasari",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "Perempuan",
+  "umur": 21
+},
+{
+  "_id": {
+    "$oid": "64a7b8ca56be5f0cc001282a"
+  },
+  "nama": "Tubagus Ahda",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "Laki-Laki",
+  "umur": 21
+},
+{
+  "_id": {
+    "$oid": "64a7b8ca56be5f0cc001282b"
+  },
+  "nama": "Accasia Miranda L",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "Perempuan",
+  "umur": 20
+},
+{
+  "_id": {
+    "$oid": "64a7baea71c84e6e3bdba9e7"
+  },
+  "nama": "Yudhistira Kusuma",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "Laki-Laki",
+  "umur": 20
+},
+{
+  "_id": {
+    "$oid": "64a814a6d3667554448fe2d6"
+  },
+  "nama": "Thesya Marcella",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "",
+  "umur": "20"
+},
+{
+  "_id": {
+    "$oid": "64a817ad4918dfbe5f480e21"
+  },
+  "nama": "Fajar Alfiantino",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "",
+  "umur": "20"
+},
+{
+  "_id": {
+    "$oid": "64a825c825bb1990563c7fcd"
+  },
+  "nama": "IBI Kesatuan",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "",
+  "umur": "30"
+},
+{
+  "_id": {
+    "$oid": "64a928369cbb2a168af9ea25"
+  },
+  "nama": "Fauzan Wafi",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "",
+  "umur": "20"
+},
+{
+  "_id": {
+    "$oid": "64a9299aa6dfc818c32d8e17"
+  },
+  "nama": "Irvan Rizky Ariansyah",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "",
+  "umur": "20"
+},
+{
+  "_id": {
+    "$oid": "64a948f7438004105897857e"
+  },
+  "nama": "Michael Mervin Ruswan",
+  "provinsi": "Jawa Barat",
+  "kota": "Kota Bogor",
+  "gender": "",
+  "umur": "20"
+}]

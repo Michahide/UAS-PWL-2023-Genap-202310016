@@ -1,0 +1,599 @@
+[{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea453"
+  },
+  "ProdukID": 1,
+  "NamaProduk": "Rompi",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "Harga": 240000,
+  "Keterangan": "(sekarang adanya all size, nanti ada sizenya pas pameran)",
+  "FotoProduk": "/img/Produk/01-Rompi/Rompi-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea457"
+  },
+  "ProdukID": 5,
+  "NamaProduk": "Outer Pendek Besar",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "XXL"
+  ],
+  "Harga": 180000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea454"
+  },
+  "ProdukID": 2,
+  "NamaProduk": "Baju Pangsi",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "Harga": 230000,
+  "Keterangan": "",
+  "FotoProduk": "/img/Produk/02-Baju Pangsi/Baju Pangsi-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea45d"
+  },
+  "ProdukID": 11,
+  "NamaProduk": "Apron Grade C",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 35000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea45e"
+  },
+  "ProdukID": 12,
+  "NamaProduk": "Totopong",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "Harga": 40000,
+  "Keterangan": "",
+  "FotoProduk": "/img/Produk/12-Totopong/Totopong-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea460"
+  },
+  "ProdukID": 14,
+  "NamaProduk": "Daster",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 120000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea46c"
+  },
+  "ProdukID": 26,
+  "NamaProduk": "Tempat Tisu Kecil",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "Kecil"
+  ],
+  "Harga": 15000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea477"
+  },
+  "ProdukID": 37,
+  "NamaProduk": "Sajadah Muka",
+  "Kategori": "Fashion, Fashion Muslim",
+  "Harga": 35000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea47c"
+  },
+  "ProdukID": 42,
+  "NamaProduk": "Alas Mangkuk Kecil",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "Kecil"
+  ],
+  "Harga": 15000,
+  "Keterangan": "diameter 25 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea480"
+  },
+  "ProdukID": 46,
+  "NamaProduk": "Tas Selempang",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 80000,
+  "Keterangan": "34 cm x 35 cm, panjang tali 62 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea482"
+  },
+  "ProdukID": 48,
+  "NamaProduk": "Tas Ketupat",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 150000,
+  "Keterangan": "27 cm x 29 cm, panjang tali 61 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea456"
+  },
+  "ProdukID": 4,
+  "NamaProduk": "Outer Pendek",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "Harga": 165000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea459"
+  },
+  "ProdukID": 7,
+  "NamaProduk": "Celana Kulot",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "Harga": 165000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea45a"
+  },
+  "ProdukID": 8,
+  "NamaProduk": "Baju Tidur Perempuan",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 120000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea464"
+  },
+  "ProdukID": 18,
+  "NamaProduk": "Baju Anak Perempuan",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "Kecil"
+  ],
+  "Harga": 50000,
+  "Keterangan": "yang kecil untuk umur sekitar 2 tahun"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea465"
+  },
+  "ProdukID": 19,
+  "NamaProduk": "Baju Anak Perempuan",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "Besar"
+  ],
+  "Harga": 75000,
+  "Keterangan": "yang besar 4-5 tahun"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea466"
+  },
+  "ProdukID": 20,
+  "NamaProduk": "Tempat Jarum",
+  "Kategori": "Aksesoris Fashion",
+  "Harga": 10000,
+  "Keterangan": "",
+  "FotoProduk": "/img/Produk/20-Tempat Jarum/Tempat Jarum-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea469"
+  },
+  "ProdukID": 23,
+  "NamaProduk": "Lap Tangan",
+  "Kategori": "Aksesoris Fashion",
+  "Harga": 20000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea46b"
+  },
+  "ProdukID": 25,
+  "NamaProduk": "Cempal Ayam",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 35000,
+  "Keterangan": "",
+  "FotoProduk": "/img/Produk/25-Cempal Ayam/Cempal Ayam-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea46f"
+  },
+  "ProdukID": 29,
+  "NamaProduk": "Pouch Besar",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "Besar"
+  ],
+  "Harga": 35000,
+  "Keterangan": "28.5 cm x 20 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea472"
+  },
+  "ProdukID": 32,
+  "NamaProduk": "Keset Love",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "1 kg"
+  ],
+  "Harga": 70000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea475"
+  },
+  "ProdukID": 35,
+  "NamaProduk": "Masker",
+  "Kategori": "Aksesoris Fashion",
+  "Harga": 25000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea479"
+  },
+  "ProdukID": 39,
+  "NamaProduk": "Bantal Duduk",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 55000,
+  "Keterangan": "40 cm x 40 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea47d"
+  },
+  "ProdukID": 43,
+  "NamaProduk": "Dompet Koin",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 20000,
+  "Keterangan": "15 cm x 13 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea45b"
+  },
+  "ProdukID": 9,
+  "NamaProduk": "Apron Grade A",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 120000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea45c"
+  },
+  "ProdukID": 10,
+  "NamaProduk": "Apron Grade B",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 80000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea45f"
+  },
+  "ProdukID": 13,
+  "NamaProduk": "Rok",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 0,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea461"
+  },
+  "ProdukID": 15,
+  "NamaProduk": "Tas Ngaji",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 65000,
+  "Keterangan": "27.3 cm x 26.7 cm, panjang tali 35 cm",
+  "FotoProduk": "/img/Produk/15-Tas Ngaji/Tas Ngaji-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea462"
+  },
+  "ProdukID": 16,
+  "NamaProduk": "Tas HP Kecil",
+  "Kategori": "Tas dan Dompet",
+  "Ukuran": [
+    "Kecil"
+  ],
+  "Harga": 25000,
+  "Keterangan": "13 cm x 18 cm, panjang tali 120 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea463"
+  },
+  "ProdukID": 17,
+  "NamaProduk": "Tas HP Besar",
+  "Kategori": "Tas dan Dompet",
+  "Ukuran": [
+    "Besar"
+  ],
+  "Harga": 35000,
+  "Keterangan": "23 cm x 20 cm, panjang tali 120 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea468"
+  },
+  "ProdukID": 22,
+  "NamaProduk": "Ikat Rambut",
+  "Kategori": "Aksesoris Fashion",
+  "Harga": 20000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea46a"
+  },
+  "ProdukID": 24,
+  "NamaProduk": "Sapu Tebah",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 55000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea46d"
+  },
+  "ProdukID": 27,
+  "NamaProduk": "Tempat Tisu Besar",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "Besar"
+  ],
+  "Harga": 35000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea46e"
+  },
+  "ProdukID": 28,
+  "NamaProduk": "Notebook A5",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 55000,
+  "Keterangan": "13 cm x 18 cm",
+  "FotoProduk": "/img/Produk/28-Notebook A5/Notebook A5-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea476"
+  },
+  "ProdukID": 36,
+  "NamaProduk": "Tempat Pensil",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 15000,
+  "Keterangan": "",
+  "FotoProduk": "/img/Produk/36-Tempat Pensil/Tempat Pensil-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea47a"
+  },
+  "ProdukID": 40,
+  "NamaProduk": "Bantal Kursi",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 65000,
+  "Keterangan": "32 cm x 32 cm",
+  "FotoProduk": "/img/Produk/40-Bantal Kursi/Bantal Kursi-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea47e"
+  },
+  "ProdukID": 44,
+  "NamaProduk": "Goodie Bag Prepet",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 55000,
+  "Keterangan": "35 cm x 35 cm, panjang tali 56 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea481"
+  },
+  "ProdukID": 47,
+  "NamaProduk": "Tote Bag",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 25000,
+  "Keterangan": "32 cm x 38.5 cm, panjang tali 55 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea455"
+  },
+  "ProdukID": 3,
+  "NamaProduk": "Baju Pangsi Besar",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "XXL"
+  ],
+  "Harga": 250000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea458"
+  },
+  "ProdukID": 6,
+  "NamaProduk": "Blouse",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "ALL SIZE"
+  ],
+  "Harga": 165000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea467"
+  },
+  "ProdukID": 21,
+  "NamaProduk": "Gantungan Kunci",
+  "Kategori": "Aksesoris Fashion",
+  "Harga": 15000,
+  "Keterangan": "",
+  "FotoProduk": "/img/Produk/21-Gantungan Kunci/Gantungan Kunci-1.JPG"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea470"
+  },
+  "ProdukID": 30,
+  "NamaProduk": "Pouch Kecil",
+  "Kategori": "Fashion",
+  "Ukuran": [
+    "Kecil"
+  ],
+  "Harga": 25000,
+  "Keterangan": "21 cm x 12 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea471"
+  },
+  "ProdukID": 31,
+  "NamaProduk": "Keset Love",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "1,5 kg"
+  ],
+  "Harga": 85000,
+  "Keterangan": ""
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea473"
+  },
+  "ProdukID": 33,
+  "NamaProduk": "Keset Kotak",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "1,5 kg"
+  ],
+  "Harga": 85000,
+  "Keterangan": "63 cm x 40 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea474"
+  },
+  "ProdukID": 34,
+  "NamaProduk": "Keset Kotak",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "1 kg"
+  ],
+  "Harga": 70000,
+  "Keterangan": "63 cm x 40 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea478"
+  },
+  "ProdukID": 38,
+  "NamaProduk": "Taplak Meja",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 70000,
+  "Keterangan": "105 cm x 41,5 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea47b"
+  },
+  "ProdukID": 41,
+  "NamaProduk": "Alas Mangkuk Besar",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Ukuran": [
+    "Besar"
+  ],
+  "Harga": 20000,
+  "Keterangan": "diameter 35 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea47f"
+  },
+  "ProdukID": 45,
+  "NamaProduk": "Goodie Bag Ritsleting",
+  "Kategori": "Tas dan Dompet",
+  "Harga": 65000,
+  "Keterangan": "32 cm x 41,2 cm, panjang tali 56 cm"
+},
+{
+  "_id": {
+    "$oid": "647f24e6429c38ae0f9ea483"
+  },
+  "ProdukID": 49,
+  "NamaProduk": "Sarung Bantal Kursi",
+  "Kategori": "Perlengkapan Rumah Tangga dan Dapur Lainnya",
+  "Harga": 45000,
+  "Keterangan": "38 cm x 39 cm"
+}]
